@@ -1,0 +1,6 @@
+para iniciar o node em um projeto, no terminal bash ja na pasta do projeto digite: npm init -y
+
+
+modulos do servidor: npm install express --- instala biblioteca que vai utilizar parar o server
+
+npm run dev faz com que o servidor fique rodando sem parar e atualize sozinho
